@@ -2,7 +2,7 @@
 
 int sub_func(char* msg)
 {
-  printf("[%s]\n", msg);
+  printf("[[%s]]\n", msg);
 
   return (0);
 }
